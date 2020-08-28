@@ -1,0 +1,8 @@
+name: MyStream
+main: MyStream.main.MyStream
+version: 1.0
+author: Gizar_TV
+commands:
+   Stream:
+      description: Stream start.
+      usage: /stream <user> (url)
